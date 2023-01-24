@@ -1,0 +1,23 @@
+body{
+    background-color: #242B2E;
+    width: 100vw;
+    text-align: center;
+}
+h1{
+    color: #fff;
+}
+
+.button{
+    background-color: #1FAA59;
+    color: #fff;
+    padding: 10px 40px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #000;
+    margin: 5px;
+}
+.button:active{
+    box-shadow: -2px -2px 2px #000;
+}
+.button:hover{
+    background-color: #2bca6d;
+}
